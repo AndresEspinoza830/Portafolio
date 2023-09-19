@@ -13,18 +13,17 @@ const About = () => {
           </p>
           <p className="py-4 text-gray-600">
             -Estoy cursando el ultimo ciclo, a lo largo de la carrera he visto
-            distintos cursos como Programacion Web I Y II, Diseño y Programacion
-            Avanzada de Base de Datos (SQL), Desarollo de Aplicaciones I Y II
-            (C#, .NET 7, WCF), Desarrollo de Aplicaciones Empresariales
-            (NetBeans, MySql, SpringBoot)
+            distintos cursos como: <br />
+            - Diseño y Desarrollo Web <br />
+            - Analisis y Diseño de Sistemas I Y II <br />
+            - Programacion Web I Y II <br />
+            - Diseño y Programacion Avanzada de Base de Datos (SQL) <br />
+            - Desarollo de Aplicaciones I Y II (C#, .NET 7, WCF) <br />-
+            Desarrollo de Aplicaciones Empresariales (NetBeans, MySql,
+            SpringBoot)
+            <br /> - Entre otras mas!
           </p>
-          <p className="py-4 text-gray-600">
-            -He tenido la oportunidad de trabjar como freelancer en un proyecto
-            por unos meses y me ayudo mucho a aprender nuevas cosas y trabajar
-            en equipo y ahora estoy buscando una empresa que me de la
-            oportunidad de crecer profesionalmente y seguir aprendiendo en el
-            mundo de TI.
-          </p>
+
           {/* <p className="py-4 text-gray-600 underline cursor-pointer">
             Check out some of my latest projects
           </p> */}
